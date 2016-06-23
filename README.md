@@ -1,2 +1,2 @@
 # kuliah-KSI
-kuliah ksi studi kasus candi sambisari
+Mata kuliah Konsep Sistem Informasi studi kasus candi sambisari yogyakarta
